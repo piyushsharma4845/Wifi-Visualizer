@@ -13,7 +13,7 @@ A professional Signal Intelligence dashboard that uses Trilateration and Physics
 - **Cyber-Security UI:** Neon-themed radar propagation map.
 
 ## 📸 Real Hardware Preview
-![Dashboard Screenshot](link_to_your_uploaded_screenshot.png)
+![Dashboard Screenshot](https://github.com/piyushsharma4845/Wifi-Visualizer/blob/main/Screenshot%202026-01-21%20113245.png)
 
 ## 🛠️ Local Setup
 1. Clone the repo.
