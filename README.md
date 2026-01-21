@@ -1,4 +1,4 @@
-# 📡 wifivisualizer
+# 📡 Wifi-visualizer
 A professional Signal Intelligence dashboard that uses Trilateration and Physics-based Path Loss models to locate Wi-Fi sources.
 
 ## 🚀 Live Demo
